@@ -1,0 +1,39 @@
+body{
+    
+    background: url("./dementors.gif");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#headings{
+    color:white;
+    width:700px;
+    text-align:center;
+    margin:auto;
+    margin-top:70px;
+}
+#content{
+    display:flex;
+    background-color: rgba(0, 0, 0, 0.347);
+    color: white;
+    height:780px;
+    width:1330px;
+    margin: auto;
+    margin-top:50px;
+    justify-content:space-between;
+}
+img{
+    height:170px;
+    width:160px;
+    border: 3px solid white;
+    border-radius:100%;
+    margin-left: 20px;
+    margin-top:40px;
+}
+#title{
+    color: white;
+    display:flex;
+    height:75px;
+    width:1200px;
+    margin:auto;
+   justify-content: space-around;
+}
